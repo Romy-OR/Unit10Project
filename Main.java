@@ -8,9 +8,6 @@ public class Main{
         tour.knightsTour(0, 0);
         tour.printBoard();
 
-        //ChessBoard board = new ChessBoard();
-        //board.runGUI();
-
     }
 
 
